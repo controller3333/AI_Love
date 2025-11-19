@@ -1,0 +1,18 @@
+# ウディタの不要ファイル例
+**/*.exe
+**/*.dll
+**/ScreenShot_*.png
+**/DebugLog.txt
+**/Log.txt
+
+# サムネなど作業中の一時画像
+**/*.thumb
+**/*.psd
+**/*.clip
+**/Game.ini
+**/Editor.ini
+**/wdimoji.ini
+
+# 不要なフォルダ
+**/Save/
+**/AutoBackup*/
